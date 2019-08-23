@@ -28,10 +28,10 @@
       <table class="table table-bordered">
         <tr>
           <th>No</th>
-          <th>Tittle</th>
-          <th>Content</th>
+          <th>Semester</th>
+          <th>Subjects</th>
           <th>Teacher</th>
-          <th>Post Date</th>
+          <th>Day Start</th>
           
           <th>Action</th>
         </tr>
